@@ -1,10 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+
 <ModMetaData>
 	<name>StuffCount</name>
-	<author>TGC</author>
-	<targetVersion>1.0.2057</targetVersion>
-	<description>v1.2
+	<author>TGC, bSun0000, ruyan</author>
+	<supportedVersions>
+		<li>1.0</li>
+		<li>1.1</li>
+	</supportedVersions>
+	<packageId>ruyan.stuffcount</packageId>
+	<description>v1.4
+Updated to Rimworld 1.1
+
+v1.3
 Adds counters to thing filters and material select float menu.
 
-Can be added/removed at any time.	
+Can be added/removed at any time.
 	</description>
 </ModMetaData>
